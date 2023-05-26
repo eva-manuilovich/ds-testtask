@@ -1,9 +1,3 @@
 # jetbrains-testtask
 
-Ссылка на задание https://github.com/portuiu/test_task_ds
-
-Ссылка на отчет https://docs.google.com/document/d/16bVItK1DgyR4Xk9P1VkwlhSpfAnhG1AP9WJ8vXKWmjo/edit?usp=sharing
-
-В рамках тестового задания на каждый вопрос найден ответ в первом приближении, достаточном для того, чтобы составить общее впечатление. Для получения более глубокого понимания (например, в последнем пункте, использующем реальные данные) нужно проводить более тщательное исследование с применением более мощных и специфических инструментов.
-
-Модели, используемые в коде - это линейная регрессия и tfidf, зависящие только от входных данных. Поэтому воспроизводимость результатов дсотигается автоматически.
+Within the test assignment, each problem is solved in a first approximation, sufficient to give a general impression. To gain a deeper understanding (e.g. in the last one using the real data), a more thorough investigation with a helpof  more powerful and specific tools is needed.
